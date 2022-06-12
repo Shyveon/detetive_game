@@ -1,3 +1,7 @@
+use std::{rc::Rc, cell::RefCell};
+
 fn main() {
-    println!("Hello, world!");
+    let app = Rc::new(RefCell::new(App::new())); // TODO
+    start_ui(app)?;
+    Ok(())
 }

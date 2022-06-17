@@ -28,8 +28,8 @@ Regras do jogo:
 5. Se Maria passou pela porta amarela, então Henrique se salvou.
 6. Maria não passou pela porta verde
 7. Henrique não se salvou
-8. Henrique passou pela porta verde e toda semente precisa de água para morrer
-9. Se toda semenete precisa de água para morer e Tolomeo tem medo de decisões difíceis então Tolomeo ainda estão aqui.
+8. Henrique passou pela porta verde e toda verdade não dita se tornam venenosas
+9. Se toda verdade não dita se tornam venenosas e Tolomeo tem medo de decisões difíceis então Tolomeo ainda estão aqui.
 10. Tolomeo tem medo de decisões difíceis.
 
 Regras de inferência usadas:
